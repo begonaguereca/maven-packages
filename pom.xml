@@ -21,8 +21,9 @@
   <distributionManagement>
      <repository>
        <id>github</id>
-       <name>GitHub OWNER Apache Maven Packages</name>
+       <name>GitHub begonaguereca Apache Maven Packages</name>
        <url>https://maven.pkg.github.com/begonaguereca/maven-packages</url>
+       <uniqueVersion>false</uniqueVersion>
      </repository>
   </distributionManagement>
 
